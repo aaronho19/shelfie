@@ -1,0 +1,1 @@
+This is a program for keeping track of a personal library. It uses Python and PostgreSQL to build a database to store individual titles and their attributes.
